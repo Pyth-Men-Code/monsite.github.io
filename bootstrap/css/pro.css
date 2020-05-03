@@ -1,0 +1,134 @@
+header{
+    background-color: rgba(210, 105, 30, 0.925);
+}
+body{
+
+    background-color: white;
+}
+  
+.wesh{
+    width: 100vw;
+    max-width: 100%; 
+}
+.menu{
+    float: right;
+}
+.menu a{
+margin-right: 20px;
+color: #ffffff;
+font-size: 30px;
+}
+header p{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+}
+body,html{
+    padding: 0%;
+    margin: 0%;
+}
+.image{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../fender.jpg") no-repeat center center fixed;
+    background-size: cover;
+     height: 100vh;
+}
+.blues{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../blues-.jpg") no-repeat center center fixed;
+    background-size: cover;
+     height: 70vh;
+}
+#begin{
+    text-decoration: underline;
+    font-family: fantasy;
+    
+    font-weight: bold;
+    color: rgb(0, 162, 255);
+    border:1 px solid rgb(0, 162, 255);
+    background-color: rgba(210, 105, 30, 0.925);
+}
+:hover .begin{
+    border-style: solid blue;
+    color: rgb(0, 174, 255)0, 174, 255);
+}
+.text-margins{
+    margin-top: vh;
+}
+.navbar-color{
+    
+    float: right;
+}
+.sof{
+    color: #ffffff;
+}
+.card-shadow{
+    box-shadow: 10px, 10px;
+}
+.display-4{
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+
+}
+.a{
+    margin-top: 20vh;
+    text-decoration: overline;
+    text-decoration: underline;
+
+}
+:hover .a{
+    border-style: solid blue ;
+}
+.sos {
+    position: relative ;
+    height: 20vh;
+}
+.btn{
+    text-align: center;
+    border:2px solid rgba(0, 0, 0, 0.705);
+    color: red;
+    padding: 20px;
+    border-top-right-radius: 5px;
+    text-decoration: none;
+        
+
+}
+:hover .btn {
+    background:grey;
+    color:whitesmoke ;
+
+}
+.ul{
+    float: right;
+}
+#header-image{
+    background-image: url("../bb.jpg");
+}
+.soufiane{
+    float: right;
+}
+.navbar{
+    background:rgba(128, 128, 128, 0.178);
+}
+
+
+.true{
+    font-weight: bold;
+}
+#contact{
+font-weight: bolder;
+background-color: rgba(210, 105, 30, 0.925);
+color: rgb(0, 162, 255);
+font-size: 30px;
+text-decoration: underline;
+    }
+#id{
+    border:solid blue;
+}
+footer{
+    background-color: darkslategrey;
+}
+.decor{
+    font-weight: bolder;
+    color: rgb(0, 162, 255); ;
+}
